@@ -1,0 +1,6 @@
+{
+    "high_correlation": {
+        "BILL_AMT1 \u2194 BILL_AMT2": 0.9515
+    },
+    "low_variance": []
+}

@@ -1,0 +1,127 @@
+{
+    "AGE": {
+        "ks_stat": 0.0066,
+        "p_value": 0.9235,
+        "drift_detected": false
+    },
+    "BILL_AMT4": {
+        "ks_stat": 0.0038,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "ID": {
+        "ks_stat": 0.0069,
+        "p_value": 0.8954,
+        "drift_detected": false
+    },
+    "PAY_0": {
+        "ks_stat": 0.0032,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "PAY_2": {
+        "ks_stat": 0.0041,
+        "p_value": 0.9998,
+        "drift_detected": false
+    },
+    "PAY_6": {
+        "ks_stat": 0.0043,
+        "p_value": 0.9995,
+        "drift_detected": false
+    },
+    "PAY_AMT2": {
+        "ks_stat": 0.0067,
+        "p_value": 0.91,
+        "drift_detected": false
+    },
+    "PAY_5": {
+        "ks_stat": 0.0009,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "BILL_AMT3": {
+        "ks_stat": 0.0055,
+        "p_value": 0.9855,
+        "drift_detected": false
+    },
+    "PAY_AMT1": {
+        "ks_stat": 0.0066,
+        "p_value": 0.9179,
+        "drift_detected": false
+    },
+    "BILL_AMT2": {
+        "ks_stat": 0.0046,
+        "p_value": 0.9984,
+        "drift_detected": false
+    },
+    "BILL_AMT6": {
+        "ks_stat": 0.0078,
+        "p_value": 0.789,
+        "drift_detected": false
+    },
+    "PAY_AMT3": {
+        "ks_stat": 0.007,
+        "p_value": 0.8796,
+        "drift_detected": false
+    },
+    "LIMIT_BAL": {
+        "ks_stat": 0.005,
+        "p_value": 0.9945,
+        "drift_detected": false
+    },
+    "SEX": {
+        "ks_stat": 0.0051,
+        "p_value": 0.9939,
+        "drift_detected": false
+    },
+    "PAY_AMT6": {
+        "ks_stat": 0.0066,
+        "p_value": 0.9207,
+        "drift_detected": false
+    },
+    "MARRIAGE": {
+        "ks_stat": 0.0045,
+        "p_value": 0.9987,
+        "drift_detected": false
+    },
+    "default.payment.next.month": {
+        "ks_stat": 0.0034,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "PAY_4": {
+        "ks_stat": 0.0024,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "PAY_3": {
+        "ks_stat": 0.0022,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "BILL_AMT1": {
+        "ks_stat": 0.0076,
+        "p_value": 0.8199,
+        "drift_detected": false
+    },
+    "EDUCATION": {
+        "ks_stat": 0.0025,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "PAY_AMT5": {
+        "ks_stat": 0.0038,
+        "p_value": 1.0,
+        "drift_detected": false
+    },
+    "PAY_AMT4": {
+        "ks_stat": 0.005,
+        "p_value": 0.9942,
+        "drift_detected": false
+    },
+    "BILL_AMT5": {
+        "ks_stat": 0.0039,
+        "p_value": 0.9999,
+        "drift_detected": false
+    }
+}

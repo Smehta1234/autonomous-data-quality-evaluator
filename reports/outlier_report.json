@@ -1,0 +1,356 @@
+{
+    "zscore": {
+        "LIMIT_BAL": {
+            "outlier_count": 130,
+            "percent_outliers": 0.43,
+            "example_indices": [
+                12,
+                433,
+                451,
+                527,
+                555,
+                737,
+                811,
+                1095,
+                1231,
+                1347
+            ]
+        },
+        "EDUCATION": {
+            "outlier_count": 331,
+            "percent_outliers": 1.1,
+            "example_indices": [
+                47,
+                69,
+                385,
+                502,
+                504,
+                1073,
+                1265,
+                1282,
+                1369,
+                1831
+            ]
+        },
+        "AGE": {
+            "outlier_count": 141,
+            "percent_outliers": 0.47,
+            "example_indices": [
+                246,
+                387,
+                1029,
+                1058,
+                1073,
+                1194,
+                1505,
+                1583,
+                1644,
+                1711
+            ]
+        },
+        "PAY_0": {
+            "outlier_count": 141,
+            "percent_outliers": 0.47,
+            "example_indices": [
+                360,
+                362,
+                649,
+                749,
+                801,
+                831,
+                848,
+                981,
+                2218,
+                2324
+            ]
+        },
+        "PAY_2": {
+            "outlier_count": 157,
+            "percent_outliers": 0.52,
+            "example_indices": [
+                189,
+                649,
+                749,
+                831,
+                848,
+                981,
+                1390,
+                1861,
+                2102,
+                2324
+            ]
+        },
+        "PAY_3": {
+            "outlier_count": 150,
+            "percent_outliers": 0.5,
+            "example_indices": [
+                158,
+                189,
+                649,
+                673,
+                704,
+                749,
+                831,
+                848,
+                862,
+                943
+            ]
+        },
+        "PAY_4": {
+            "outlier_count": 169,
+            "percent_outliers": 0.56,
+            "example_indices": [
+                158,
+                189,
+                649,
+                673,
+                749,
+                831,
+                862,
+                943,
+                981,
+                1132
+            ]
+        },
+        "PAY_5": {
+            "outlier_count": 164,
+            "percent_outliers": 0.55,
+            "example_indices": [
+                158,
+                649,
+                673,
+                749,
+                831,
+                862,
+                943,
+                981,
+                1132,
+                1146
+            ]
+        },
+        "PAY_6": {
+            "outlier_count": 129,
+            "percent_outliers": 0.43,
+            "example_indices": [
+                158,
+                308,
+                673,
+                850,
+                862,
+                1132,
+                1146,
+                1249,
+                1485,
+                1894
+            ]
+        },
+        "BILL_AMT1": {
+            "outlier_count": 686,
+            "percent_outliers": 2.29,
+            "example_indices": [
+                6,
+                59,
+                102,
+                123,
+                214,
+                221,
+                222,
+                343,
+                360,
+                385
+            ]
+        },
+        "BILL_AMT2": {
+            "outlier_count": 670,
+            "percent_outliers": 2.23,
+            "example_indices": [
+                6,
+                59,
+                102,
+                123,
+                214,
+                221,
+                222,
+                343,
+                360,
+                385
+            ]
+        },
+        "BILL_AMT3": {
+            "outlier_count": 661,
+            "percent_outliers": 2.2,
+            "example_indices": [
+                6,
+                59,
+                102,
+                123,
+                214,
+                221,
+                360,
+                385,
+                407,
+                431
+            ]
+        },
+        "BILL_AMT4": {
+            "outlier_count": 680,
+            "percent_outliers": 2.27,
+            "example_indices": [
+                6,
+                40,
+                59,
+                102,
+                123,
+                214,
+                221,
+                360,
+                385,
+                407
+            ]
+        },
+        "BILL_AMT5": {
+            "outlier_count": 651,
+            "percent_outliers": 2.17,
+            "example_indices": [
+                6,
+                59,
+                102,
+                123,
+                133,
+                214,
+                221,
+                360,
+                385,
+                407
+            ]
+        },
+        "BILL_AMT6": {
+            "outlier_count": 651,
+            "percent_outliers": 2.17,
+            "example_indices": [
+                6,
+                59,
+                102,
+                133,
+                214,
+                221,
+                290,
+                360,
+                385,
+                407
+            ]
+        },
+        "PAY_AMT1": {
+            "outlier_count": 390,
+            "percent_outliers": 1.3,
+            "example_indices": [
+                182,
+                186,
+                386,
+                462,
+                463,
+                480,
+                728,
+                762,
+                828,
+                982
+            ]
+        },
+        "PAY_AMT2": {
+            "outlier_count": 307,
+            "percent_outliers": 1.02,
+            "example_indices": [
+                343,
+                414,
+                506,
+                515,
+                522,
+                685,
+                931,
+                952,
+                1030,
+                1383
+            ]
+        },
+        "PAY_AMT3": {
+            "outlier_count": 362,
+            "percent_outliers": 1.21,
+            "example_indices": [
+                17,
+                85,
+                108,
+                186,
+                452,
+                522,
+                590,
+                977,
+                990,
+                1001
+            ]
+        },
+        "PAY_AMT4": {
+            "outlier_count": 396,
+            "percent_outliers": 1.32,
+            "example_indices": [
+                33,
+                40,
+                74,
+                81,
+                153,
+                253,
+                638,
+                762,
+                832,
+                909
+            ]
+        },
+        "PAY_AMT5": {
+            "outlier_count": 414,
+            "percent_outliers": 1.38,
+            "example_indices": [
+                17,
+                108,
+                182,
+                210,
+                301,
+                333,
+                343,
+                351,
+                374,
+                389
+            ]
+        },
+        "PAY_AMT6": {
+            "outlier_count": 439,
+            "percent_outliers": 1.46,
+            "example_indices": [
+                96,
+                180,
+                260,
+                290,
+                328,
+                480,
+                506,
+                522,
+                525,
+                563
+            ]
+        }
+    },
+    "isolation_forest": {
+        "outlier_count": 1500,
+        "percent_outliers": 5.0,
+        "example_indices": [
+            6,
+            17,
+            33,
+            40,
+            59,
+            65,
+            90,
+            102,
+            108,
+            112
+        ]
+    }
+}
