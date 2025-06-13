@@ -19,7 +19,7 @@
 
 ## 🖼️ Live Demo (if deployed)
 
-> Coming soon: [https://adqe.streamlit.app](#)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://autonomous-data-quality-evaluator-rwtqdgavmcgtcgsazauyzp.streamlit.app/)
 
 ---
 
